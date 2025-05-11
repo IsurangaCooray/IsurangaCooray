@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I’m Isuranga Cooray.👋</h1>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=21&color=00FFFF&width=550&lines=Enthusiastic%2C+Driven+and+Innovative+IT+Undergraduate;Creative%2C+Dedicated+and+Ambitious+Achiever"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=21&color=00FFFF&width=550&lines=Inquisitive%2C+Analytical+and+Innovative+Physicist;Precise%2C+Dedicated+and+Visionary+Scholar"></a>
 <div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabiehahmed10&label=Views&color=blue&style=plastic&style=for-the-badge" /> </p> 
 <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
