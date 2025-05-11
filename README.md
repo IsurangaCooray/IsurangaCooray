@@ -8,18 +8,18 @@
 
 ## 🧬 About Me: 
 
-- name: "🧑‍🔬 Isuranga Cooray"
-- field: "🧠 Physics Research | 🌌 Theoretical + 🧮 Computational"
-- affiliation: "🏛️ University of Colombo"
+- name: 🧑‍🔬 Isuranga Cooray
+- field: 🧠 Physics Research | 🌌 Theoretical + 🧮 Computational
+- affiliation: 🏛️ University of Colombo
 - interests:
-    ⚛️ Quantum Mechanics
-    🌠 Relativity & Cosmology
-    🧩 Particle Physics
-    📊 Data-Driven Simulations
+    - ⚛️ Quantum Mechanics
+    - 🌠 Relativity & Cosmology
+    - 🧩 Particle Physics
+    - 📊 Data-Driven Simulations
 - tools:
   - 🐍 Python, 📄 LaTeX, 🧙 Mathematica
   - 🧪 MATLAB, 🧫 ROOT, 🔬 SciPy
-currently_learning: "🧠💻 Machine Learning in Physics"
+- currently_learning: 🧠💻 Machine Learning in Physics
 
 
 <!--
