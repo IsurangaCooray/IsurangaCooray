@@ -6,21 +6,27 @@
 </div>
 <div>
 
-<h3 align="center"><b>  👩‍🔬 About Me </b></h3>
+<h3 align="left"><b>  👩‍🔬 About Me </b></h3>
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+-🔭 I’m a Physics Researcher | Lecturer specializing in Theoretical and Computational Physics
 
-🔭 I’m a Physics Researcher | Lecturer specializing in Theoretical and Computational Physics
+-🧠 I’m currently exploring Machine Learning applications in Physics
 
-🧠 I’m currently exploring Machine Learning applications in Physics
+-🏛️ affiliation :  University of Colombo | University of Louisville
 
-🏛️ affiliation :  University of Colombo | University of Louisville
-
-🧩 interests :
+-🧩 interests :
   - Quantum Mechanics
   - Relativity & Cosmology
   - Particle Physics
   - Data-Driven Simulations
    
-
+</td>
+</tr>
+</table>
+</div>
 
 
 <h3 align="left"><b>  🌐 Connect with me </b></h3>
