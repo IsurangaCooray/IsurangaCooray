@@ -10,6 +10,17 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
+
+
+- 🔭 I’m a **Physics Researcher | Lecturer** specializing in *Theoretical* and *Computational Physics*  
+- 🧠 Currently exploring **Machine Learning applications** in Physics (ML4Sci)  
+- 🏛️ Affiliated with **University of Colombo** | **University of Louisville**  
+- 🧩 My core interests include:
+  - Quantum Mechanics  
+  - Relativity & Cosmology  
+  - Particle Physics  
+  - Data-Driven Simulations  
+
   
 -🔭 I’m a Physics Researcher | Lecturer specializing in Theoretical and Computational Physics
 
