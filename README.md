@@ -17,14 +17,17 @@
 - 🧠 Currently exploring **Machine Learning applications** in Physics
   
 - 🏛️ Affiliated with **University of Colombo** | **University of Louisville**
+
+- 📫 How to reach me **isurangacooray@gmail.com**
   
-- 🧩 My core interests include :
+- 🧩 My core interests :
   - Quantum Mechanics  
   - Relativity & Cosmology  
   - Particle Physics  
-  - Data-Driven Simulations  
-
-   
+  - Data-Driven Simulations
+ 
+    
+  
 </td>
 </tr>
 </table>
