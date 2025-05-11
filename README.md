@@ -6,20 +6,24 @@
 </div>
 <div>
 
-## 🧬 About Me: 
+## 👩‍🔬 About Me: 
 
-- name: 🧑‍🔬 Isuranga Cooray
-- field: 🧠 Physics Research | 🌌 Theoretical + 🧮 Computational
-- affiliation: 🏛️ University of Colombo
-- interests:
-    - ⚛️ Quantum Mechanics
-    - 🌠 Relativity & Cosmology
-    - 🧩 Particle Physics
-    - 📊 Data-Driven Simulations
-- tools:
-  - 🐍 Python, 📄 LaTeX, 🧙 Mathematica
-  - 🧪 MATLAB, 🧫 ROOT, 🔬 SciPy
-- currently_learning: 🧠💻 Machine Learning in Physics
+ 
+🔭 I’m a Physics Researcher | Lecturer specializing in Theoretical and Computational Physics
+
+🧠 I’m currently exploring Machine Learning applications in Physics
+
+🏛️ affiliation:  University of Colombo | University of Louisville
+
+🧩 interests:
+    -  Quantum Mechanics
+    -  Relativity & Cosmology
+    -  Particle Physics
+    -  Data-Driven Simulations
+
+
+
+
 
 
 <!--
