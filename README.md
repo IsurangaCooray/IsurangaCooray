@@ -40,6 +40,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/isurangacooray) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isurangacooray/)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PhysicsSimplified) 
 
 
+<h3 align="left"> 🤝 Support</h3>
+<p><a href="https://buymeacoffee.com/isurangacooray"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" /></a></p><br><br>
 <!--
 **IsurangaCooray/IsurangaCooray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
