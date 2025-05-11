@@ -6,20 +6,22 @@
 </div>
 <div>
 
-## 🧬 About Me
+## 🧬 About Me: 
 
-name: "Isuranga Cooray"
-field: "Physics Research | Theoretical + Computational"
-affiliation: "University of [Your Institution]"
-interests:
-  - Quantum Mechanics
-  - Relativity & Cosmology
-  - Particle Physics
-  - Data-Driven Simulations
-tools:
-  - Python, LaTeX, Mathematica
-  - MATLAB, ROOT, SciPy
-currently_learning: "Machine Learning in Physics (ML4Sci)"
+- name: "🧑‍🔬 Isuranga Cooray"
+- field: "🧠 Physics Research | 🌌 Theoretical + 🧮 Computational"
+- affiliation: "🏛️ University of Colombo"
+- interests:
+    ⚛️ Quantum Mechanics
+    🌠 Relativity & Cosmology
+    🧩 Particle Physics
+    📊 Data-Driven Simulations
+- tools:
+  - 🐍 Python, 📄 LaTeX, 🧙 Mathematica
+  - 🧪 MATLAB, 🧫 ROOT, 🔬 SciPy
+currently_learning: "🧠💻 Machine Learning in Physics"
+
+
 <!--
 **IsurangaCooray/IsurangaCooray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
