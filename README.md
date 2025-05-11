@@ -6,7 +6,7 @@
 </div>
 <div>
 
-<h3 align="left"><b>  👩‍🔬 About Me </b></h3>
+<h3 align="center"><b>  👩‍🔬 About Me </b></h3>
 
 🔭 I’m a Physics Researcher | Lecturer specializing in Theoretical and Computational Physics
 
