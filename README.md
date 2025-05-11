@@ -6,7 +6,7 @@
 </div>
 <div>
 
-<h3 align="left"><b>  👩‍🔬 About Me </b></h3>
+<h3 align="left"><b>  🧑‍🔬 About Me </b></h3>
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
