@@ -8,9 +8,6 @@
 
 <h3 align="left"><b>  👩‍🔬 About Me </b></h3>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
 🔭 I’m a Physics Researcher | Lecturer specializing in Theoretical and Computational Physics
 
 🧠 I’m currently exploring Machine Learning applications in Physics
@@ -24,9 +21,7 @@
   - Data-Driven Simulations
    
 
-</td>
-</tr>
-</table>
+
 
 <h3 align="left"><b>  🌐 Connect with me </b></h3>
 
