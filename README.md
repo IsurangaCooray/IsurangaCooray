@@ -16,10 +16,10 @@
 🏛️ affiliation:  University of Colombo | University of Louisville
 
 🧩 interests:
-    -  Quantum Mechanics
-    -  Relativity & Cosmology
-    -  Particle Physics
-    -  Data-Driven Simulations
+    - Quantum Mechanics
+    - Relativity & Cosmology
+    - Particle Physics
+    - Data-Driven Simulations
 
 
 
